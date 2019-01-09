@@ -1,5 +1,29 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
+.main_content {
+  margin: 0 auto;
+  width: 900px;
+  padding: 20px;
+  background-color: #eff3f4;
+}
 
+.balloon_img {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.wall_img {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 10x;
+
+}
+
+.main_text {
+  font-size: 18px;
+  line-height: 22px;
+  word-break: break-all;
+}
 /* 回答はここに書いてね */
