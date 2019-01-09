@@ -25,6 +25,7 @@
   padding: 0 20px;
   height: 32px;
 }
+
 .lar_btn{
   border-radius: 7px;
   font-size: 24px;
@@ -36,16 +37,20 @@
   color: #fff;
   background-color: #00bcd4;
 }
+
 .err_btn {
   color: #fff;
   background-color: #ff4081;
 }
+
 .dis_btn {
   color: #fff;
   background-color: #e5e5e5;
   cursor: default;
 }
+
 .sha_btn {
   color: #222;
-  box-shadow: 0 1px 6px rgba(0, 0, 0, .12), 0 1px 4px rgba( 0, 0, 0, .12); 0 1px 4p}
+  box-shadow: 0 1px 6px rgba(0, 0, 0, .12), 0 1px 4px rgba( 0, 0, 0, .12);
+}
 /* 回答はここに書いてね */
