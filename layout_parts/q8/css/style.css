@@ -17,6 +17,7 @@
   font-size: 16px;
   padding: 0 15px ;
   height: 26px;
+  line-height: 26px;
 }
 
 .mid_btn{
@@ -24,6 +25,7 @@
   font-size: 20px;
   padding: 0 20px;
   height: 32px;
+  line-height: 32px;
 }
 
 .lar_btn{
@@ -31,6 +33,7 @@
   font-size: 24px;
   padding: 0 25px;
   height: 38px;
+  line-height: 38px;
 }
 
 .com_btn {
