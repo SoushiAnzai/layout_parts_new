@@ -1,35 +1,35 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
-table {
+.calorie table {
   width: 100%;
   table-layout: fixed;
 }
 
-th,td {
+.calorie th,td {
   padding: 10px;
   border: solid #dedede 1px;
   text-align: center;
   vertical-align: middle;
 }
 
-th {
+.calorie th {
   color: #fff;
   font-size: 18px;
   line-height: 26px;
   background-color: #2244aa;
 }
 
-td {
+.calorie td {
   font-size: 16px;
   line-height: 22px;
 }
 
-tr:nth-child(odd) {
+.calorie tr:nth-child(odd) {
   background-color: #ecf1f2;
 }
 
-tr:last-child {
+.calorie tr:last-child {
   border-top: dashed #000 2px;
 }
 
